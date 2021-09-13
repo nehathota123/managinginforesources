@@ -1,0 +1,2 @@
+# managinginforesources
+COVID-19 or coronavirus disease has spread worldwide leading to an ongoing pandemic. It is spreading at an exponential rate. We must protect ourselves from this deadly virus by monitoring our diet daily. My project serves more as an alert for people to be more careful of their health and take necessary actions when the time is dire and not as a mere indication of the end of the world.
